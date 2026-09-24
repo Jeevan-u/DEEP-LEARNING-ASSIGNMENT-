@@ -29,7 +29,7 @@ The model processes **28 × 28 grayscale images**, trains on handwritten digits,
 
 - **Name:** JEEVAN K L
 - **Course:** B.Tech Computer Science and Engineering (AI & ML)
-- **Semester:** 3rd Semester
+- **Semester:** 5th Semester
 - **UEN:** RTU24101CS004
 - **College:** Rai Technology University, Bangalore
 
